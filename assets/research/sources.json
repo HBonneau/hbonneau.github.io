@@ -1,0 +1,47 @@
+[
+  {
+    "image": "ionic-correlations.png",
+    "source": "Stationary and transient correlations in driven electrolytes",
+    "figure": "1",
+    "year": 2025,
+    "doi": "10.1088/1742-5468/adb4ce",
+    "origin": "https://arxiv.org/pdf/2411.17264",
+    "page": 6
+  },
+  {
+    "image": "ionic-atmosphere.png",
+    "source": "Frequency-dependent conductivity of concentrated electrolytes: A stochastic density functional theory",
+    "figure": "1",
+    "year": 2024,
+    "doi": "10.1063/5.0236073",
+    "origin": "https://arxiv.org/pdf/2408.17427",
+    "page": 2
+  },
+  {
+    "image": "polymer-bridge.png",
+    "source": "On the bridge hypothesis in the glass transition of freestanding polymer films",
+    "figure": "2",
+    "year": 2023,
+    "doi": "10.1140/epje/s10189-023-00272-z",
+    "origin": "https://elieraphael.github.io/Publications/On_the_bridge_hypothesis.pdf",
+    "page": 3
+  },
+  {
+    "image": "granular-flow.png",
+    "source": "Microscopic foundation of the μ(I) rheology for dense granular flows on inclined planes",
+    "figure": "1(a)",
+    "year": 2023,
+    "doi": "10.1103/PhysRevResearch.5.013089",
+    "origin": "https://orbi.umons.ac.be/bitstream/20.500.12907/45486/1/2023_mu_I%20rheology_PhysRevResearch.5.013089-2.pdf",
+    "page": 2
+  },
+  {
+    "image": "shortest-cycles.png",
+    "source": "Distribution of shortest cycle lengths in random networks",
+    "figure": "1",
+    "year": 2017,
+    "doi": "10.1103/PhysRevE.96.062307",
+    "origin": "https://arxiv.org/pdf/1712.00098",
+    "page": 35
+  }
+]
