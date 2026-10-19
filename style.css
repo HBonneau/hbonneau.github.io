@@ -56,6 +56,8 @@ footer{flex-direction:column;align-items:flex-start;gap:3px;font-size:9px}
 @media screen and (min-width:701px){
 .site-shell{margin-left:0;margin-right:auto;padding-left:0}
 }
+.teaching-intro{font-size:14px;margin-bottom:18px}
 .teaching-timeline article{margin-bottom:18px}
+.teaching-timeline article>div{grid-column:2}
 .teaching-timeline h3{font-size:18px;line-height:1.4}
 @media screen and (max-width:700px){.teaching-timeline h3{font-size:17px}}
