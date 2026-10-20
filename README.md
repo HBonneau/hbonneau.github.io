@@ -2,7 +2,7 @@
 
 Research, publications, and academic CV in statistical physics, stochastic processes, and soft matter.
 
-Website: https://haggai-bonneau.github.io/
+Website: https://hbonneau.github.io/
 
 ## Pages
 

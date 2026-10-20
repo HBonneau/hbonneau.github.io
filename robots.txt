@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://haggai-bonneau.github.io/sitemap.xml
+Sitemap: https://hbonneau.github.io/sitemap.xml
