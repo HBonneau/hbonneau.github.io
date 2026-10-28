@@ -9,7 +9,7 @@ Website: https://hbonneau.github.io/
 - `index.html` — biography, research illustration, and scientific ML project.
 - `research.html` — research themes and figures.
 - `publications.html` — publications with DOI links.
-- `cv.html` — scientific ML project, academic background, teaching, and downloadable CV.
+- `cv.html` — academic background, teaching, and downloadable CV.
 
 ## Editing
 
