@@ -1,15 +1,15 @@
 # Haggaï Bonneau — personal website
 
-Research, publications, and academic CV in statistical physics, stochastic processes, and soft matter.
+Research, scientific ML projects, publications, and CV.
 
 Website: https://hbonneau.github.io/
 
 ## Pages
 
-- `index.html` — biography and research illustration.
+- `index.html` — biography, research illustration, and scientific ML project.
 - `research.html` — research themes and figures.
 - `publications.html` — publications with DOI links.
-- `cv.html` — academic background, teaching, and downloadable CV.
+- `cv.html` — scientific ML project, academic background, teaching, and downloadable CV.
 
 ## Editing
 
